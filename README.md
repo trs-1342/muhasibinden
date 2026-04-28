@@ -58,7 +58,8 @@ Demo, kurumsal lisans veya satın alma için iletişime geçin.
 | [![GitHub](https://img.shields.io/badge/-trs--1342-181717?logo=github&logoColor=white&style=flat)](https://github.com/trs-1342) | |
 | [![GitHub](https://img.shields.io/badge/-hansasabbagh07-181717?logo=github&logoColor=white&style=flat)](https://github.com/hansasabbagh07) | |
 | [![GitHub](https://img.shields.io/badge/-sara--rezk-181717?logo=github&logoColor=white&style=flat)](https://github.com/sara-rezk) | |
-| [![GitHub](https://img.shields.io/badge/-canerseyn-181717?logo=github&logoColor=white&style=flat)](https://github.com/canerseyn) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/nora-talipova-ba021b313/) | |
+| [![GitHub](https://img.shields.io/badge/-canerseyn-181717?logo=github&logoColor=white&style=flat)](https://github.com/canerseyn) | |
+| [![LinkedIn](https://img.shields.io/badge/-Nora%20Talipova-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/nora-talipova-ba021b313/) | |
 
 ---
 
