@@ -1,19 +1,49 @@
-Proprietary License
+Muhasibinden Proprietary Software License Agreement (v1.0)
 
 Copyright (c) 2026 Muhasibinden. All Rights Reserved.
 
-This software and its source code are proprietary and confidential.
+1. Definitions
+“Software” means all source code, binaries, APIs, databases, documentation, and related materials.
+“Licensor” means Muhasibinden (legal owner of the Software).
+“Licensee” means any individual or entity granted rights under this Agreement.
+“Use” means to install, run, access, or execute the Software.
 
-Permission is NOT granted to any person or entity to:
-- Copy, modify, or distribute this software
-- Use this software for commercial purposes without a valid license
-- Reverse engineer or decompile this software
-- Create derivative works based on this software
+2. Grant of License
+Subject to compliance with this Agreement, Licensor grants Licensee a limited, non-exclusive, non-transferable, revocable license to use the Software strictly for internal evaluation purposes only.
 
-For licensing, demo requests, or commercial use inquiries, contact:
-  muhasibinden@gmail.com
-  hattab1342@gmail.com
+3. Restrictions
+Licensee shall NOT:
+- Copy, reproduce, distribute, sublicense, rent, lease, or sell the Software
+- Modify, adapt, translate, or create derivative works
+- Reverse engineer, decompile, disassemble, or attempt to extract source logic
+- Use the Software for commercial purposes without a separate written agreement
+- Expose the Software as a service (SaaS, API, etc.)
+- Share access credentials or allow third-party access
 
-Unauthorized use, reproduction, or distribution of this software,
-in whole or in part, is strictly prohibited and may result in
-severe civil and criminal penalties.
+4. Ownership
+The Software remains the exclusive property of Licensor. No ownership rights are transferred.
+
+5. Confidentiality
+The Software is confidential. Licensee must not disclose any part of it to third parties.
+
+6. License Validation
+Any commercial or production use requires a separate signed agreement explicitly defining scope, duration, and fees. Absence of such agreement makes usage unauthorized.
+
+7. Term & Termination
+This license is effective until terminated. Licensor may terminate immediately upon any breach. Upon termination, Licensee must delete all copies of the Software.
+
+8. No Warranty
+The Software is provided “AS IS”, without warranty of any kind, express or implied, including but not limited to merchantability or fitness for a particular purpose.
+
+9. Limitation of Liability
+Licensor shall not be liable for any damages, including direct, indirect, incidental, or consequential damages arising from use or inability to use the Software.
+
+10. Jurisdiction
+This Agreement shall be governed by and construed under the laws of the Republic of Türkiye. Courts of Istanbul shall have exclusive jurisdiction.
+
+11. Enforcement
+Unauthorized use may result in civil and criminal penalties under applicable intellectual property laws.
+
+For licensing inquiries:
+muhasibinden@gmail.com
+hattab1342@gmail.com
