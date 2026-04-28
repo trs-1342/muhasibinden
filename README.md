@@ -45,21 +45,20 @@ Demo, kurumsal lisans veya satın alma için iletişime geçin.
 
 ## İletişim
 
-- 📧 [muhasibinden@gmail.com](mailto:muhasibinden@gmail.com)
-- 📧 [hattab1342@gmail.com](mailto:hattab1342@gmail.com)
-- 🔗 [linkedin.com/in/nora-talipova-ba021b313](https://www.linkedin.com/in/nora-talipova-ba021b313/)
+- [muhasibinden@gmail.com](mailto:muhasibinden@gmail.com)
+- [hattab1342@gmail.com](mailto:hattab1342@gmail.com)
 
 ---
 
-## Geliştirici Ekibi — Techthon 2026 · 1. lik
+## Geliştirici Ekibi
 
-| | |
-|---|---|
-| [![GitHub](https://img.shields.io/badge/-trs--1342-181717?logo=github&logoColor=white&style=flat)](https://github.com/trs-1342) | |
-| [![GitHub](https://img.shields.io/badge/-hansasabbagh07-181717?logo=github&logoColor=white&style=flat)](https://github.com/hansasabbagh07) | |
-| [![GitHub](https://img.shields.io/badge/-sara--rezk-181717?logo=github&logoColor=white&style=flat)](https://github.com/sara-rezk) | |
-| [![GitHub](https://img.shields.io/badge/-canerseyn-181717?logo=github&logoColor=white&style=flat)](https://github.com/canerseyn) | |
-| [![LinkedIn](https://img.shields.io/badge/-Nora%20Talipova-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/nora-talipova-ba021b313/) | |
+Techthon 2026 Hackathon
+
+- [trs-1342](https://github.com/trs-1342)
+- [hansasabbagh07](https://github.com/hansasabbagh07)
+- [sara-rezk](https://github.com/sara-rezk)
+- [canerseyn](https://github.com/canerseyn)
+- [Nora Talipova](https://www.linkedin.com/in/nora-talipova-ba021b313/)
 
 ---
 
